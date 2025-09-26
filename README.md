@@ -211,6 +211,7 @@ Pitch: Tome.app
 ✅ Built in 12 hours. Won "Best AI Hack".
 
 🔗 Resources
+
 v0.dev – AI frontend
 Galileo AI – AI UI design
 Toolform.ai – Full-stack AI builder
